@@ -7,7 +7,7 @@ font-family: 'Work Sans', sans-serif;
 box-sizing: border-box;
 }
 
-
+/* banner section style */
 header{
     background: rgba(255, 144, 14, 0.10);
     /* padding: 50px 240px; */
@@ -71,6 +71,7 @@ main{
     margin: 0 auto;
 }
 
+/* teams container style */
 .teams-container{
     display: flex;
     justify-content: center;
@@ -98,6 +99,7 @@ main{
     font-weight: 700;
 }
 
+/* features section style */
 .features{
     display: flex;
     margin-top: 100px;
@@ -156,6 +158,8 @@ margin-top: 30px;
 .ten-years p{
     font-size: 1.5rem;
 }
+
+/* facts section style */
 .facts-title{
     font-size: 2rem;
     color: #131313;
@@ -186,6 +190,8 @@ padding: 30px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+/*sponspors section style */
 .sponspors{
     text-align: center;
     margin-top: 100px;
@@ -200,6 +206,7 @@ padding: 30px;
 .sponspors-img img{
       width: 165px;
 }
+/* footer section style */
 .footer{
     width:1400 ;
 height: 100px;
